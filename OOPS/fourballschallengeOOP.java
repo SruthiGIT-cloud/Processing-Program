@@ -34,9 +34,9 @@ public class fourballschallenge extends PApplet{
     public static void main(String[] args) {
        PApplet.main("fourballschallenge", args);
        fourballschallenge object1=new fourballschallenge();
-       object1.WIDTH=680;
-        object1.HEIGHT=480;
-       object1.DIAMETER=20;
+       object1.setWIDTH(680);
+        object1.setHEIGHT(480);
+       object1.setDIAMETER(20);
 
     }
 
