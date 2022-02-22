@@ -22,5 +22,5 @@ const ans=num.myfil(addnum);
 console.log("After calling myfil:"+ans);
 
 function addnum(currentval,ind,array){
-  return currentval*currentval;
+  return >=2;
 }
