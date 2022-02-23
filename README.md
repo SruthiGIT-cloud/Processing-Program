@@ -1,4 +1,4 @@
-# Processing-Program #JAVASCRIPT
+# Processing-Program JAVASCRIPT
 FOUR BALLS move from left to right
 
 Ball 1 is 1/5 height from the top and speed of x units per frame
@@ -9,7 +9,7 @@ ATTEMPT 1) Procedural program
 ATTEMPT 2) OOP
 
 JAVASCRIPT
-Do not use inbuilt functions.
+Do not use inbuilt **functions**.
 1. map
 2. filter
 3. reduce
