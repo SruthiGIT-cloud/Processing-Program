@@ -9,7 +9,7 @@ ATTEMPT 1) Procedural program
 ATTEMPT 2) OOP
 
 JAVASCRIPT
-Do not use inbuilt **functions**.
+Do not use inbuilt functions.
 1. map
 2. filter
 3. reduce
