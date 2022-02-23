@@ -1,4 +1,4 @@
-# Processing-Program JAVASCRIPT
+# OOP # JAVASCRIPT
 FOUR BALLS move from left to right
 
 Ball 1 is 1/5 height from the top and speed of x units per frame
